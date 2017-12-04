@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 #框架名称 版本号 简短描述
   s.name         = "cwbTestDemo"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "cwbTestDemo."
 
   # This description is used to generate tags and improve search results.
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #s.source 放的就成代码仓库的远程地址  tag 是仓库releases(发布的版本)的标签
 
-  s.source       = { :git => "https://github.com/ichenwanbing/cwbTest.git", :tag => "0.0.2" }
+  s.source       = { :git => "https://github.com/ichenwanbing/cwbTest.git", :tag => "0.0.3" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
